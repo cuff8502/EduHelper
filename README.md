@@ -64,7 +64,7 @@
 
 ## 🗓️ 업데이트 로그
 
-📂 `docs/update_log.md` 파일에 작성 예정
+📅 [업데이트 로그 보러가기](docs/update_log.md)
 
 ---
 
