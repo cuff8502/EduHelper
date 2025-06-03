@@ -37,9 +37,20 @@
 
 ## 📷 스크린샷
 
-> 📂 `screenshots/` 폴더에 UI 이미지를 올려주세요!  
-> 예: `main_ui.png`, `evaluation_sample.png`
+### 🖥️ 메인 화면
+![Main UI](screenshots/main_ui.png)
 
+### 🧩 창의적 체험활동 화면
+![Creative Activities](screenshots/CreativeActivities.png)
+
+### 🏫 통합교과 화면
+![Integrated Subject](screenshots/IntegratedSubject.png)
+
+### 👤 학생 생성 화면
+![Student Maker](screenshots/StudentMaker.png)
+
+### 🕹️ 자율활동 화면
+![Autonomous Activities](screenshots/AutonomousActivities.png)
 ---
 
 ## ✍️ 개발자 노트
