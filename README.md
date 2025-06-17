@@ -22,8 +22,8 @@
 
 ## 🖥️ 설치 방법
 
-👉 Microsoft Store에서 'EduHelper' 검색 후 설치 or 아래 링크 복사 후 주소창에 붙여넣기  
-[🛒 KEduHelper 다운로드](https://apps.microsoft.com/detail/9nfh8hx1t88c?hl=ko-KR&gl=KR)
+👉 Microsoft Store에서 'EduHelper' 검색 후 설치 or 아래 링크 클릭
+[🛒 EduHelper 다운로드](https://apps.microsoft.com/detail/9nfh8hx1t88c?hl=ko-KR&gl=KR)
 
 ---
 
