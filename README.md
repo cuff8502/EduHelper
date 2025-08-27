@@ -39,7 +39,7 @@
 ## 📷 스크린샷
 
 ### 🖥️ 메인 화면
-![Main UI](screenshots/main_ui.png)
+<img width="1219" height="673" alt="image" src="https://github.com/user-attachments/assets/ac9fcc6c-a464-451c-9b0d-9b74545a7132" />
 
 ### 🧩 창의적 체험활동 화면
 ![Creative Activities](screenshots/CreativeActivities.png)
