@@ -42,16 +42,17 @@
 <img width="1219" height="673" alt="image" src="https://github.com/user-attachments/assets/ac9fcc6c-a464-451c-9b0d-9b74545a7132" />
 
 ### 🧩 창의적 체험활동 화면
-![Creative Activities](screenshots/CreativeActivities.png)
+<img width="969" height="598" alt="image" src="https://github.com/user-attachments/assets/5e3fe9a4-41b7-4030-8833-39395bf89553" />
 
 ### 🏫 통합교과 화면
-![Integrated Subject](screenshots/IntegratedSubject.png)
+<img width="1206" height="697" alt="image" src="https://github.com/user-attachments/assets/214a99dc-60a7-43a5-af42-8cdd51fd40ad" />
 
-### 👤 학생 생성 화면
-![Student Maker](screenshots/StudentMaker.png)
+### 👤 행동특성 및 종합의견 화면
+<img width="1215" height="681" alt="image" src="https://github.com/user-attachments/assets/96dbe8e4-229c-4b5f-9763-0dcda6ad7a58" />
 
-### 🕹️ 자율활동 화면
-![Autonomous Activities](screenshots/AutonomousActivities.png)
+### 🕹️ 교과 성적 처리 화면
+<img width="1129" height="701" alt="image" src="https://github.com/user-attachments/assets/52911280-89cd-457d-998c-9c385308c43c" />
+
 ---
 
 ## ✍️ 개발자 노트
